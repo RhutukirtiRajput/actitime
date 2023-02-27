@@ -8,3 +8,4 @@ driver.findelement By.partial link text
 driver.findelement By.tagname
 driver.findelement By.css
 driver.findelement By.xpath
+driver.manage().window().maximize();
